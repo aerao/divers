@@ -1,3 +1,4 @@
+
 Capteur 12 (Cible stand-up droite) : Détecte la balle lorsqu'elle frappe la cible droite.
 Capteur 22 (Rampe de gauche) : Détecte le passage de la balle sur la rampe gauche.
 Capteur 42 (Pop bumper) : Détecte la balle dans la zone des bumpers pour activer leur fonctionnement.
@@ -23,3 +24,32 @@ Batteur droit (Right Flipper) : Switch 73 ou 74.
 Slingshot gauche : Capteur 41 (correct)
 Slingshot droit : Capteur 42 (correct)
 Ces numéros se réfèrent aux interrupteurs utilisés pour détecter l'activation des batteurs. Si tu as d'autres questions sur d'autres parties de la table, n'hésite pas à me le dire !
+
+-----------------
+
+    Capteur 12 (Cible stand-up droite) : Correct.
+    Capteur 22 (Rampe de gauche) : Correct.
+    Capteur 42 (Pop bumper) : Correct.
+    Capteur 13 (Entrée du lanceur de balle) : Correct.
+    Capteur 23 (Sortie de la rampe centrale) : Correct.
+    Capteur 33 (Entrée du multibille) : Correct.
+    Capteur 43 (Cible captive) : Correct.
+    Capteur 14 (Entrée du couloir d'évacuation) : Correct.
+    Capteur 24 (Kicker gauche) : Correct.
+    Capteur 34 (Zone de capture de la bille) : Correct.
+    Capteur 44 (Cible mobile) : Correct.
+    Capteur 15 (Entrée du mini-jeu) : Correct.
+    Capteur 25 (Cible rotative) : Correct.
+    Capteur 35 (Popper de bille) : Correct.
+    Capteur 45 (Sortie de multibille) : Correct.
+    Capteur 16 (Entrée de la rampe du haut) : Correct.
+    Capteur 26 (Jet Bumper droit) : Correct.
+    Capteur 36 (Cible de bonus) : Correct.
+    Capteur 46 (Sortie du couloir droit) : Correct.
+
+Pour les bateurs et les slingshots :
+
+    Batteur gauche (Left Flipper) : Switch 71 ou 72, Correct.
+    Batteur droit (Right Flipper) : Switch 73 ou 74, Correct.
+    Slingshot gauche : Capteur 41, Correct.
+    Slingshot droit : Capteur 42, Correct.
