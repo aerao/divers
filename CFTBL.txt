@@ -1,0 +1,20 @@
+Capteur 12 (Cible stand-up droite) : Détecte la balle lorsqu'elle frappe la cible droite.
+Capteur 22 (Rampe de gauche) : Détecte le passage de la balle sur la rampe gauche.
+Capteur 32 (Slingshot gauche) : Active le slingshot gauche lors de l'impact de la balle.
+Capteur 42 (Pop bumper) : Détecte la balle dans la zone des bumpers pour activer leur fonctionnement.
+Capteur 13 (Entrée du lanceur de balle) : Détecte quand la balle est positionnée pour être lancée dans le jeu.
+Capteur 23 (Sortie de la rampe centrale) : Détecte le passage de la balle à la sortie de la rampe centrale.
+Capteur 33 (Entrée du multibille) : Détecte quand la balle entre dans la zone de préparation du multibille.
+Capteur 43 (Cible captive) : Détecte les impacts sur la cible captive qui déclenche des événements spécifiques.
+Capteur 14 (Entrée du couloir d'évacuation) : Détecte lorsque la balle entre dans le couloir d'évacuation (ball drain).
+Capteur 24 (Kicker gauche) : Active le kicker situé à gauche lorsque la balle entre en contact.
+Capteur 34 (Zone de capture de la bille) : Détecte lorsqu'une bille est capturée pour des événements comme le multibille.
+Capteur 44 (Cible mobile) : Détecte les frappes sur une cible mobile pour déclencher des points bonus ou d'autres événements.
+Capteur 15 (Entrée du mini-jeu) : Détecte lorsque la balle entre dans une zone spécifique pour déclencher un mini-jeu.
+Capteur 25 (Cible rotative) : Détecte les frappes sur une cible qui change de position.
+Capteur 35 (Popper de bille) : Détecte la présence de la balle pour l'envoyer dans le popper (dispositif qui propulse la balle).
+Capteur 45 (Sortie de multibille) : Détecte la balle lorsqu'elle quitte la zone de multibille après l'activation.
+Capteur 16 (Entrée de la rampe du haut) : Détecte la balle lorsqu'elle entre dans la rampe située en hauteur.
+Capteur 26 (Jet Bumper droit) : Active le jet bumper droit quand la balle entre en contact avec lui.
+Capteur 36 (Cible de bonus) : Détecte les frappes sur une cible qui octroie des bonus supplémentaires.
+Capteur 46 (Sortie du couloir droit) : Détecte la balle lorsqu'elle quitte le couloir droit pour revenir dans le jeu.
