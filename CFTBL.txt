@@ -1,6 +1,5 @@
 Capteur 12 (Cible stand-up droite) : Détecte la balle lorsqu'elle frappe la cible droite.
 Capteur 22 (Rampe de gauche) : Détecte le passage de la balle sur la rampe gauche.
-Capteur 32 (Slingshot gauche) : Active le slingshot gauche lors de l'impact de la balle.
 Capteur 42 (Pop bumper) : Détecte la balle dans la zone des bumpers pour activer leur fonctionnement.
 Capteur 13 (Entrée du lanceur de balle) : Détecte quand la balle est positionnée pour être lancée dans le jeu.
 Capteur 23 (Sortie de la rampe centrale) : Détecte le passage de la balle à la sortie de la rampe centrale.
@@ -18,3 +17,9 @@ Capteur 16 (Entrée de la rampe du haut) : Détecte la balle lorsqu'elle entre d
 Capteur 26 (Jet Bumper droit) : Active le jet bumper droit quand la balle entre en contact avec lui.
 Capteur 36 (Cible de bonus) : Détecte les frappes sur une cible qui octroie des bonus supplémentaires.
 Capteur 46 (Sortie du couloir droit) : Détecte la balle lorsqu'elle quitte le couloir droit pour revenir dans le jeu.
+
+Batteur gauche (Left Flipper) : Switch 71 ou 72, selon le type de contact utilisé.
+Batteur droit (Right Flipper) : Switch 73 ou 74.
+Slingshot gauche : Capteur 41 (correct)
+Slingshot droit : Capteur 42 (correct)
+Ces numéros se réfèrent aux interrupteurs utilisés pour détecter l'activation des batteurs. Si tu as d'autres questions sur d'autres parties de la table, n'hésite pas à me le dire !
